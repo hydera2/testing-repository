@@ -3,7 +3,10 @@ title: "first_markdown"
 output: html_document
 ---
 ![This is an image of a puppy](http://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-8.jpg)
-
+#puppy
+##puppy
+####puppy
+###puppy
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
